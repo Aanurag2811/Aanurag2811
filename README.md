@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/anurag-0a5aa7288">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  
+
   <a href="https://github.com/Aanurag2811">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
@@ -18,23 +18,37 @@
   </a>
 </p>
 
-Building scalable web applications • Exploring AI solutions • Smart City Automation
+### Building scalable web applications • Exploring AI solutions • Smart Automation
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
-## 🏙 Smart City Management System
-Laravel MVC-based smart city solution for:
-- Traffic management
-- Resource optimization
-- Logistics monitoring
-- Real-time analytics dashboards
+## 🤖 AI Interview Preparation Platform
+
+An AI-powered web application that helps users generate personalized interview preparation reports from their resume and job description.
+
+### Core Features
+
+- Secure user authentication system
+- Resume upload and analysis
+- AI-powered interview question generation
+- Resume-job match score calculation
+- Technical interview question generation
+- Behavioral interview question generation
+- Skill gap analysis
+- Personalized preparation roadmap
+- Report storage and tracking dashboard
 
 ### Tech Used
-`Laravel` `PHP` `MySQL` `Bootstrap` `JavaScript`
+
+`Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap` `AI APIs`
+
+### Purpose
+
+The platform is designed to help users prepare smarter for interviews by analyzing their resume and generating customized interview preparation material using AI.
 
 ---
 
@@ -45,6 +59,7 @@ Laravel MVC-based smart city solution for:
 - Improving backend development skills
 - Exploring cloud and automation technologies
 - Developing smart automation systems
+- Creating scalable full-stack projects
 
 ---
 
@@ -52,7 +67,7 @@ Laravel MVC-based smart city solution for:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,python,cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,python,cpp,git,github,vscode,bootstrap" />
 
 </div>
 
@@ -62,9 +77,9 @@ Laravel MVC-based smart city solution for:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aanurag2811&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aanurag2811&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanurag2811&layout=compact&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanurag2811&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -74,7 +89,7 @@ Laravel MVC-based smart city solution for:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aanurag2811&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Aanurag2811&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -83,8 +98,8 @@ Laravel MVC-based smart city solution for:
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/Aanurag2811
-- LinkedIn: Add your LinkedIn link
-- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/anurag-0a5aa7288
+- Email: anuragpurewal@gmail.com
 
 ---
 
