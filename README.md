@@ -5,7 +5,7 @@
 ### Full Stack Developer • Laravel Developer • AI/ML Enthusiast
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/anurag-0a5aa7288">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 
-  <a href="mailto:YOURMAIL@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anuragpurewal@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
