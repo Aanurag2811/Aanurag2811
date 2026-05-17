@@ -73,28 +73,6 @@ The platform is designed to help users prepare smarter for interviews by analyzi
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aanurag2811&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanurag2811&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aanurag2811&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/Aanurag2811
