@@ -24,6 +24,16 @@
 
 ---
 
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,python,cpp,git,github,vscode,bootstrap" />
+
+</div>
+
+---
+
 # 🚀 Featured Project
 
 ## 🤖 AI Interview Preparation Platform
@@ -41,6 +51,8 @@ An AI-powered web application that helps users generate personalized interview p
 - Skill gap analysis
 - Personalized preparation roadmap
 - Report storage and tracking dashboard
+
+---
 
 ### Tech Used
 
@@ -61,17 +73,6 @@ The platform is designed to help users prepare smarter for interviews by analyzi
 - Developing smart automation systems
 - Creating scalable full-stack projects
 
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,python,cpp,git,github,vscode,bootstrap" />
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
