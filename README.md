@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full Stack Developer • Laravel Developer • AI/ML Enthusiast
+### Full Stack MERN Developer • AI Enthusiast • Backend Developer
 
 <p>
   <a href="https://linkedin.com/in/anurag-0a5aa7288">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-### Building scalable web applications • Exploring AI solutions • Smart Automation
+### Building scalable MERN applications • Exploring AI solutions • Smart Automation Systems
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,python,cpp,git,github,vscode,bootstrap" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,python,cpp,git,github,vscode,bootstrap" />
 
 </div>
 
@@ -38,41 +38,53 @@
 
 ## 🤖 AI Interview Preparation Platform
 
-An AI-powered web application that helps users generate personalized interview preparation reports from their resume and job description.
+An AI-powered MERN stack application that helps users generate personalized interview preparation reports from their resume and job description.
 
 ### Core Features
 
-- Secure user authentication system
+- Secure JWT-based user authentication
 - Resume upload and analysis
 - AI-powered interview question generation
 - Resume-job match score calculation
-- Technical interview question generation
+- Technical interview preparation module
 - Behavioral interview question generation
 - Skill gap analysis
 - Personalized preparation roadmap
-- Report storage and tracking dashboard
+- Dashboard for report tracking and history
+- Responsive and modern UI
 
 ---
 
 ### Tech Used
 
-`Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap` `AI APIs`
+`MongoDB` `Express.js` `React.js` `Node.js` `JavaScript` `Bootstrap` `AI APIs`
 
 ### Purpose
 
-The platform is designed to help users prepare smarter for interviews by analyzing their resume and generating customized interview preparation material using AI.
+The platform is designed to help users prepare smarter for interviews by analyzing resumes and generating customized AI-powered interview preparation content based on job descriptions and candidate profiles.
 
 ---
 
 # 🎯 What I'm Focused On
 
-- Building real-world Laravel MVC applications
+- Building scalable MERN stack applications
 - Learning Artificial Intelligence & Machine Learning
-- Improving backend development skills
-- Exploring cloud and automation technologies
-- Developing smart automation systems
-- Creating scalable full-stack projects
+- Improving backend and API development skills
+- Exploring cloud computing and DevOps
+- Developing AI-powered automation systems
+- Strengthening Data Structures & Algorithms
 
+---
+
+# 🌟 Additional Interests
+
+- Full Stack Web Development
+- AI-Based Interview Systems
+- Smart City & Automation Projects
+- Cloud Deployment & Scalable Architectures
+- Real-Time Applications
+
+---
 
 # 🌐 Connect With Me
 
